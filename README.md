@@ -1,16 +1,19 @@
-# DIARIO DE VIAJE
-Presentado por: Juan Jose Acevedo
-## Introduccion
+# Diario de viajes
+
+Presentado por Juan José Acevedo Morales.
+
+## Introducción
+
 Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomendaciones de diferentes destinos turísticos.
 ## Destinos
-- [Viaje a París](entradas/Paris.md): Disfruta de esta ciudad
-- [Viaje a Roma](entradas/Roma.md): Disfruta de esta ciudad
-- [Viaje a Sidney](entradas/Sidney.md): Disfruta de esta ciudad
-- [Viaje a Nueva York](entradas/NuevaYork.md): Disfruta de esta ciudad
-- [Viaje a Londres](entradas/Londres.md): Disfruta de esta ciudad
-- [Viaje a Berlin](entradas/Berlin.md): Disfruta de esta ciudad
-- [Viaje a Rio De Janeiro](entradas/RioDeJaneiro.md): Disfruta de esta ciudad
-- [Viaje a Dubai](entradas/Dubai.md): Disfruta de esta ciudad
-- [Viaje a Ciudad De Mexico](entradas/CiudadDeMexico.md): Disfruta de esta ciudad
-- [Viaje a Machu Pichu](entradas/MachuPichu.md): Disfruta de esta ciudad
-### ¡Esperamos que disfruten de nuestros relatos y encuentren inspiración para sus próximas aventuras!
+
+- [Viaje a París](entradas/Paris.md)
+- [Viaje a Roma](entradas/Roma.md)
+- [Viaje a Sídney](entradas/Sidney.md)
+- [Viaje a Nueva York](entradas/NuevaYork.md)
+- [Viaje a Londres](entradas/Londres.md)
+- [Viaje a Berlín](entradas/Berlin.md)
+- [Viaje a Río de Janeiro](entradas/RioDeJaneiro.md)
+- [Viaje a Dubai](entradas/Dubai.md)
+- [Viaje a Ciudad de México](entradas/CiudadDeMexico.md)
+- [Viaje a Machu Picchu](entradas/MachuPichu.md)
